@@ -1,0 +1,46 @@
+primary_name: "Edward"
+secondary_name: "McSafeNet"
+navbar_name: "McSafeNet"
+
+positions:
+- name: Windows 调试器 / 逆向工具开发者
+- name: McDbg 作者
+
+email: "mcsafenet@163.com"
+# cv_link: /assets/files/cv.pdf
+github: McSafeNet
+# twitter: your_twitter_id  # Do not include the '@' symbol
+# linkedin: your-linked-in-id
+
+short_bio_text_justify: false
+short_bio: >-
+  <p>
+    你好，我是 <b>Edward</b>，GitHub 上的 <a href="https://github.com/McSafeNet" target="_blank">@McSafeNet</a>。
+    我专注于 Windows 平台的调试与逆向分析工具开发。
+  </p>
+  <p>
+    我开发了 <a href="https://github.com/McSafeNet/McDbg" target="_blank"><b>McDbg</b></a>——一款仿照 OllyDbg 设计的
+    Windows 用户态动态调试器，同时支持 x64 与 x86 程序，快捷键与 OllyDbg 基本一致，老用户可以直接上手。
+    配套的 <a href="https://github.com/McSafeNet/McDbg-Plugins" target="_blank">McDbg-Plugins</a> 提供了插件 SDK
+    以及 ScyllaHide、SwissArmyKnife、HotSpots 等开源插件。
+  </p>
+  <p>
+    官方论坛：<a href="https://www.mcsafenet.com" target="_blank">www.mcsafenet.com</a>，欢迎交流反馈。
+  </p>
+
+portrait_url: /assets/images/photos/portrait.jpg
+
+# 以下栏目可按需填写，取消注释即可显示
+# education:
+# - name: 学校名称
+#   position: 专业 / 学位
+#   date: 2020.09 - 2024.06
+
+# experience:
+# - name: 公司名称
+#   position: 职位
+#   date: 2024.07 - 至今
+
+# awards:
+# - name: 奖项名称
+#   date: 2024
