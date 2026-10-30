@@ -35,9 +35,11 @@ portrait_url: /assets/images/photos/portrait.jpg
 
 education:
 - name: Arizona State University
+  logo: /assets/images/badges/ASU_seal.png
   position: MS of Engineering in Computing and Technology
-  date: Nov. 2024 - Dec. 2025
+  date: Nov. 2024 - Dec. 2026
 - name: Northern Arizona University
+  logo: /assets/images/badges/NAU_seal.png
   position: MS in Computer Information Technology
   date: Jan. 2024 - Jan. 2025
 
