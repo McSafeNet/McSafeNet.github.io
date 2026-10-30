@@ -1,5 +1,5 @@
 homepage:
-  show_experience: false  # 在 profile.yml 填写 education/experience/awards 后改为 true
+  show_experience: true
   show_news: true
   show_selected_publications: true
   num_news: 10

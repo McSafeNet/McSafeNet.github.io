@@ -23,6 +23,7 @@
                 <div class="row">
                     <div class="col text-center h4">
                         {{ site.data.profile.primary_name }}
+                        {% if site.data.profile.secondary_name != "" %}<div class="h6 text-muted mb-0 mt-1">{{ site.data.profile.secondary_name }}</div>{% endif %}
                     </div>
                 </div>
 
@@ -39,6 +40,11 @@
                         <a class="email-text" href="mailto:{{ site.data.profile.email | encode_email }}">
                             {{ site.data.profile.email | replace: "@", "(at)" }}
                         </a>
+                        {% if site.data.profile.email2 %}<br/>
+                        <a class="email-text" href="mailto:{{ site.data.profile.email2 | encode_email }}">
+                            {{ site.data.profile.email2 | replace: "@", "(at)" }}
+                        </a>
+                        {% endif %}
                     </div>
                 </div>
 
@@ -55,6 +61,12 @@
                         </a>
                         {% endif %}
                         
+                        {% if site.data.profile.blog %}
+                        <a class="px-1 no-break" target="_blank" href="{{ site.data.profile.blog }}" title="Blog">
+                            <i class="fas fa-blog"></i>
+                        </a>
+                        {% endif %}
+
                         {% if site.data.profile.github %}
                         <a class="px-1 no-break" target="_blank" href="https://github.com/{{ site.data.profile.github }}">
                             <i class="fab fa-github"></i>

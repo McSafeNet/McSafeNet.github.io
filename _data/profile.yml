@@ -1,12 +1,14 @@
-primary_name: "Edward"
-secondary_name: "McSafeNet"
-navbar_name: "McSafeNet"
+primary_name: "Bohua Yang"
+secondary_name: "Edward"
+navbar_name: "Bohua Yang"
 
 positions:
 - name: Windows 调试器 / 逆向工具开发者
 - name: McDbg 作者
 
 email: "mcsafenet@163.com"
+email2: "byang124@asu.edu"
+blog: https://www.mcsafenet.com/plugin.php?id=hl_blog:home
 # cv_link: /assets/files/cv.pdf
 github: McSafeNet
 # twitter: your_twitter_id  # Do not include the '@' symbol
@@ -15,7 +17,7 @@ github: McSafeNet
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    你好，我是 <b>Edward</b>，GitHub 上的 <a href="https://github.com/McSafeNet" target="_blank">@McSafeNet</a>。
+    你好，我是 <b>Bohua Yang（Edward）</b>，GitHub 上的 <a href="https://github.com/McSafeNet" target="_blank">@McSafeNet</a>。
     我专注于 Windows 平台的调试与逆向分析工具开发。
   </p>
   <p>
@@ -25,16 +27,19 @@ short_bio: >-
     以及 ScyllaHide、SwissArmyKnife、HotSpots 等开源插件。
   </p>
   <p>
-    官方论坛：<a href="https://www.mcsafenet.com" target="_blank">www.mcsafenet.com</a>，欢迎交流反馈。
+    官方论坛：<a href="https://www.mcsafenet.com" target="_blank">www.mcsafenet.com</a>，
+    个人博客：<a href="https://www.mcsafenet.com/plugin.php?id=hl_blog:home" target="_blank">McSafeNet Blog</a>，欢迎交流反馈。
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
 
-# 以下栏目可按需填写，取消注释即可显示
-# education:
-# - name: 学校名称
-#   position: 专业 / 学位
-#   date: 2020.09 - 2024.06
+education:
+- name: Arizona State University
+  position: MS of Engineering in Computing and Technology
+  date: Nov. 2024 - Dec. 2025
+- name: Northern Arizona University
+  position: MS in Computer Information Technology
+  date: Jan. 2024 - Jan. 2025
 
 # experience:
 # - name: 公司名称

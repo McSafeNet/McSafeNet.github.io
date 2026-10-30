@@ -1,6 +1,6 @@
 # McSafeNet.github.io
 
-Edward（[@McSafeNet](https://github.com/McSafeNet)）的个人主页：<https://mcsafenet.github.io>
+Bohua Yang（Edward，[@McSafeNet](https://github.com/McSafeNet)）的个人主页：<https://mcsafenet.github.io>
 
 基于 [luost26/academic-homepage](https://github.com/luost26/academic-homepage) 模板（Jekyll + GitHub Pages）。
 
