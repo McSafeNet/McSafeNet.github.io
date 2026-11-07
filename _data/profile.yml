@@ -4,7 +4,7 @@ navbar_name: "Bohua Yang"
 
 positions:
 - name: Windows 调试器 / 逆向工具开发者
-- name: McDbg 作者
+- name: McDbg / McFence 作者
 
 email: "mcsafenet@163.com"
 email2: "byang124@asu.edu"
@@ -27,8 +27,12 @@ short_bio: >-
     以及 ScyllaHide、SwissArmyKnife、HotSpots 等开源插件。
   </p>
   <p>
+    我还开发了 <a href="https://github.com/McSafeNet/McFence" target="_blank"><b>McFence</b></a>——一款轻量级的
+    Windows 桌面栅栏工具，是 Stardock Fences 的开源替代品，单文件无依赖，可从 Windows XP 运行到 Windows 11。
+  </p>
+  <p>
     官方论坛：<a href="https://www.mcsafenet.com" target="_blank">www.mcsafenet.com</a>，
-    个人博客：<a href="https://www.mcsafenet.com/plugin.php?id=hl_blog:home" target="_blank">McSafeNet Blog</a>，欢迎交流反馈。
+    个人博客：<a href="https://www.mcsafenet.com/plugin.php?id=hl_blog:home" target="_blank">Edward's Blog</a>，欢迎交流反馈。
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
